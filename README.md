@@ -1,0 +1,1 @@
+In the jupyter notebook, financial data was extracted from the "Financial Modeling Prep" API. Spefically looking at data from Apple's Balance Sheet and analying there growth in assets in 2019. 
